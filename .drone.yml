@@ -11,6 +11,7 @@ steps:
     - echo $KEY
     - pwd
     - ls
+    - echo "HELLO WORLD!"
 
 trigger:
   branch:
